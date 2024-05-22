@@ -1,7 +1,12 @@
+# React + TypeScript + Vite + TailwindCSS
+This is a practice project Cloning YouTube homepage UI (frontent) using Reactjs + TypeScript + Vite + TailwindCSS
+
+Deployed on vercel 
+- [Live Preview Link](https://ytube-hpage-ui-react-ts-tw.vercel.app/)
+
+
+
 # React + TypeScript + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
 Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
